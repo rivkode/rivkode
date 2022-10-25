@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=rivkode's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-​
-
 <br>
-
-​
 
 <p align="center">
 
@@ -22,15 +18,9 @@
 
 <Strong>📧Email📧</Strong><br>rivkode@kakao.com<br>
 
-​
-
 </p>
 
-​
-
 <br>
-
-​
 
 <p align="center">
 
@@ -39,14 +29,9 @@
 제 이름은 이종훈이고 백엔드를 공부하고 있습니다<br>
 
 현재 대학교에 재학중이며 열심히 배우려는 자세로 학습에 임하고 있습니다 !<br>
-
 </p>
 
-
-
 <br>
-
-​
 
 <p align="center">
 
@@ -56,8 +41,6 @@
 
 </p>
 
-​
-
 <p align="center" display="inline-block">
 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -66,19 +49,13 @@
 
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
-     
-
 </p><br>
-
-​
 
 <p align="center">
 
     💡used at least once
 
 </p>
-
-​
 
 <p align="center" display="inline-block">
 
@@ -96,13 +73,8 @@
 
 </p>
 
-​
-
 <br>
 
-​
-
 <div align=center>
-
 ​
 ![rivkode's github stats](https://github-readme-stats.vercel.app/api?username=rivkode&show_icons=true)
