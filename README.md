@@ -49,5 +49,4 @@
 
 <div align=center>
 
-
-![rivkode's github stats](https://github-readme-stats.vercel.app/api?username=rivkode&show_icons=true)
+[![rivkode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivkode)](https://github.com/anuraghazra/github-readme-stats)
