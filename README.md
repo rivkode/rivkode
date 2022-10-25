@@ -1,17 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=rivkode's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
 <br>
 
 <p align="center">
-
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-
     <a href="https://velog.io/@rivkode" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Velog&color=222222&logo=Velog&logoColor=20C997&label="/></a>
-
     <a href="https://industrious-crow-d0f.notion.site/9fd749a924e941f880de6553f1045b9f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
     <br>
-
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivkode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br><br>
@@ -34,9 +28,7 @@
 <br>
 
 <p align="center">
-
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-
     💡used as the main
 
 </p>
@@ -44,15 +36,12 @@
 <p align="center" display="inline-block">
 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
 </p><br>
 
 <p align="center">
-
     💡used at least once
 
 </p>
@@ -76,5 +65,5 @@
 <br>
 
 <div align=center>
-​
+
 ![rivkode's github stats](https://github-readme-stats.vercel.app/api?username=rivkode&show_icons=true)
