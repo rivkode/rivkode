@@ -49,7 +49,7 @@
 
 ## 최근 작성한 블로그
 
-[//]: # (- [트랜잭션과 LOCK]&#40;&#41;)
+- [트랜잭션](https://velog.io/@rivkode/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-%EA%B2%A9%EB%A6%AC%EB%A0%88%EB%B2%A8)
 - [WebSocket 을 이해하며 채팅서비스를 구현해보아요 | MySQL, MongoDB](https://velog.io/@rivkode/WebSocket-%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%A9%B0-%EC%B1%84%ED%8C%85%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%95%84%EC%9A%94-MySQL-MongoDB)
 - [[에러 해결] There is no PasswordEncoder mapped for the id "null"](https://velog.io/@rivkode/%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-There-is-no-PasswordEncoder-mapped-for-the-id-null)
 - [직접 만들어보며 이해하는 좋은 객체 ID 2탄](https://velog.io/@rivkode/ID-%EC%83%9D%EC%84%B1%EA%B8%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%95%84%EC%9A%94-2%ED%83%84)
