@@ -1,13 +1,5 @@
 <!-- Header -->
 
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (  <img src="https://capsule-render.vercel.app/api?type=rounded&color=B9F2FF&height=180&section=header&text=JONGHUN%20LEE&fontSize=45&fontAlignY=38&desc=Web%20Backend%20Developer&descAlignY=55&descAlign=60&descSize=14" alt="header" />)
-
-[//]: # ()
-[//]: # (</p>)
-
 
 <!-- Hits -->
 
@@ -36,19 +28,20 @@
 [//]: # (  현재 대학교에 재학 중이며 배우려는 자세로 열심히 학습에 임하고 있습니다!<br><br>)
 [//]: # (</p>)
 
-안녕하세요. 데이터를 좋아하는 개발자 이종훈입니다.
+안녕하세요, Software 를 통해 문제를 해결하는 서버 개발자 이종훈입니다. 저는 데이터를 다루는 것을 좋아하며 최근에는 Jamo 개인 프로젝트 개발을 통해 자사의 서버 아키텍처에 대한 이해를 높이고 있습니다.
 
-오픈소스의 공유하는 문화가 좋아 개발을 처음 시작하게 되었습니다.
+문제 해결을 할때 논리적으로 고민하고 메타인지를 하기 위해 노력하고 있습니다.
 
-테스트코드의 중요성을 알고난 뒤 개발을 할때 테스트 주도 개발을 하려고 노력합니다.
-
-공유하는 것을 좋아하며 기술블로그를 꾸준히 작성하고 있습니다. 
+유익한 소통에 대해서는 언제나 열려있으며 함께 일하는 동료를 존중합니다.
 
 <br>
 
 
 ## 최근 작성한 블로그
 
+- [HashMap과 HashSet](https://velog.io/@rivkode/HashMap%EA%B3%BC-HashSet)
+- [Confusion matrix 혼돈행렬](https://velog.io/@rivkode/Confusion-matrix-%ED%98%BC%EB%8F%88%ED%96%89%EB%A0%AC)
+- [Helm Ingress - Nginx, HTTPS 통신을 위한 cert-manager](https://velog.io/@rivkode/Helm-Ingress-Nginx-HTTPS-%ED%86%B5%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-cert-manager)
 - [오픈소스 첫 기여 과정 - Spring AI](https://velog.io/@rivkode/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC%EC%9D%98-%EA%B3%BC%EC%A0%95-Spring-AI)
 - [Twitter Snow Flake 동작원리](https://velog.io/@rivkode/Twitter-Snow-Flake-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
 - [sqlExceptionHelper is null 에러 해결 / Github Actions 데이터베이스 연결](https://velog.io/@rivkode/sqlExceptionHelper-is-null-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-Github-Actions-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0)
@@ -72,11 +65,6 @@
 - [인덱스](https://velog.io/@rivkode/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%9E%99)
 <br>
 
-## 활동
-
-- GDSC SeoulTech 2기 서버 파트 멤버 (2022.08~2023.06)
-- F-Lab Java Backend (2024.07 - 2024.11)
-
 <!-- Tech Stack -->
 <p align="center">
   <strong>⚒️ Tech Stack ⚒️</strong><br>
@@ -90,19 +78,3 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <br>
-
-[//]: # (<!-- Velog Stats -->)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (  <a href="https://velog.io/@rivkode">)
-
-[//]: # ()
-[//]: # ([//]: # &#40;    <img src="https://velog-readme-stats.vercel.app/api?name=rivkode" alt="Velog's GitHub stats">&#41;)
-[//]: # ()
-[//]: # (  </a>)
-
-[//]: # ()
-[//]: # (</p>)
