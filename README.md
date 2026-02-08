@@ -16,16 +16,6 @@
 [//]: # (  </a>)
 </p>
 
-[//]: # (<!-- Introduction -->)
-
-[//]: # (<p align="center">)
-
-[//]: # (  👋 안녕하세요 👋<br>)
-
-[//]: # (  제 이름은 이종훈이고 백엔드를 공부하고 있습니다.<br>)
-
-[//]: # (  현재 대학교에 재학 중이며 배우려는 자세로 열심히 학습에 임하고 있습니다!<br><br>)
-[//]: # (</p>)
 
 안녕하세요, Software 를 통해 문제를 해결하는 서버 개발자 이종훈입니다. 저는 데이터를 다루는 것을 좋아하며 최근에는 Jamo 개인 프로젝트 개발을 통해 자사의 서버 아키텍처에 대한 이해를 높이고 있습니다.
 
@@ -38,6 +28,7 @@
 
 ## 최근 작성한 블로그
 
+- [Jenkins-Kaniko 파이프라인](https://velog.io/@rivkode/Jenkins-Kaniko-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%84%A4%EA%B3%84-%EC%84%A0%ED%83%9D-%ED%9D%90%EB%A6%84)
 - [HashMap과 HashSet](https://velog.io/@rivkode/HashMap%EA%B3%BC-HashSet)
 - [Confusion matrix 혼돈행렬](https://velog.io/@rivkode/Confusion-matrix-%ED%98%BC%EB%8F%88%ED%96%89%EB%A0%AC)
 - [Helm Ingress - Nginx, HTTPS 통신을 위한 cert-manager](https://velog.io/@rivkode/Helm-Ingress-Nginx-HTTPS-%ED%86%B5%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-cert-manager)
