@@ -28,6 +28,7 @@
 
 ## 최근 작성한 블로그
 
+- [트랜잭션 격리수준](https://velog.io/@rivkode/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80)
 - [Jenkins-Kaniko 파이프라인](https://velog.io/@rivkode/Jenkins-Kaniko-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%84%A4%EA%B3%84-%EC%84%A0%ED%83%9D-%ED%9D%90%EB%A6%84)
 - [HashMap과 HashSet](https://velog.io/@rivkode/HashMap%EA%B3%BC-HashSet)
 - [Confusion matrix 혼돈행렬](https://velog.io/@rivkode/Confusion-matrix-%ED%98%BC%EB%8F%88%ED%96%89%EB%A0%AC)
@@ -44,7 +45,6 @@
 - [직접 만들어보며 이해하는 좋은 객체 ID](https://velog.io/@rivkode/Id-%EC%83%9D%EC%84%B1%EA%B8%B0-%EA%B5%AC%ED%98%84)
 
 ## 자주 찾는 블로그
-- [JVM이란? OutOfMemoryError : Java heap space](https://velog.io/@rivkode/OutOfMemoryError-Java-heap-space)
 - [테이블 컬럼 순서 변경](https://velog.io/@rivkode/%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%BB%AC%EB%9F%BC-%EC%88%9C%EC%84%9C-%EB%B3%80%EA%B2%BD-Mysql)
 - [Docker Nginx에서 HTTPS를 위한 SSL 인증서 적용 (Let's encrypt, Docker compose)](https://velog.io/@rivkode/Docker-Nginx%EC%97%90%EC%84%9C-HTTPS%EB%A5%BC-%EC%9C%84%ED%95%9C-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9-Lets-encrypt-Docker-compose)
 - [MySQL LIKE % 위치에 따른 인덱스](https://velog.io/@rivkode/MySQL-LIKE-%EC%9C%84%EC%B9%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%9D%B8%EB%8D%B1%EC%8A%A4)
