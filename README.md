@@ -1,22 +1,5 @@
 <!-- Header -->
 
-
-<!-- Hits -->
-
-<a href="https://solved.ac/jonghun"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jonghun"/></a>
-
-<p align="center">
-
-[//]: # (  <a href="https://hits.seeyoufarm.com">)
-
-[//]: # ()
-[//]: # (    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivkode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits" />)
-
-[//]: # ()
-[//]: # (  </a>)
-</p>
-
-
 안녕하세요, Software 를 통해 문제를 해결하는 서버 개발자 이종훈입니다. 저는 데이터를 다루는 것을 좋아하며 최근에는 Jamo 개인 프로젝트 개발을 통해 자사의 서버 아키텍처에 대한 이해를 높이고 있습니다.
 
 문제 해결을 할때 논리적으로 고민하고 메타인지를 하기 위해 노력하고 있습니다.
@@ -28,9 +11,11 @@
 
 ## 최근 작성한 블로그
 
+- [[카프카 핵심 가이드] 카프카 시리즈](https://velog.io/@rivkode/series/Kafka)
+- [대규모 시스템 설계 기초 2 예약 시스템](https://velog.io/@rivkode/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-2-%ED%98%B8%ED%85%94-%EC%98%88%EC%95%BD-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [트랜잭션 격리수준](https://velog.io/@rivkode/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80)
 - [Jenkins-Kaniko 파이프라인](https://velog.io/@rivkode/Jenkins-Kaniko-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%84%A4%EA%B3%84-%EC%84%A0%ED%83%9D-%ED%9D%90%EB%A6%84)
-- [HashMap과 HashSet](https://velog.io/@rivkode/HashMap%EA%B3%BC-HashSet)
+- [HashMap과 HashSet 동작원리](https://velog.io/@rivkode/HashMap%EA%B3%BC-HashSet)
 - [Confusion matrix 혼돈행렬](https://velog.io/@rivkode/Confusion-matrix-%ED%98%BC%EB%8F%88%ED%96%89%EB%A0%AC)
 - [Helm Ingress - Nginx, HTTPS 통신을 위한 cert-manager](https://velog.io/@rivkode/Helm-Ingress-Nginx-HTTPS-%ED%86%B5%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-cert-manager)
 - [오픈소스 첫 기여 과정 - Spring AI](https://velog.io/@rivkode/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC%EC%9D%98-%EA%B3%BC%EC%A0%95-Spring-AI)
@@ -43,17 +28,7 @@
 - [[에러 해결] There is no PasswordEncoder mapped for the id "null"](https://velog.io/@rivkode/%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-There-is-no-PasswordEncoder-mapped-for-the-id-null)
 - [직접 만들어보며 이해하는 좋은 객체 ID 2탄](https://velog.io/@rivkode/ID-%EC%83%9D%EC%84%B1%EA%B8%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%95%84%EC%9A%94-2%ED%83%84)
 - [직접 만들어보며 이해하는 좋은 객체 ID](https://velog.io/@rivkode/Id-%EC%83%9D%EC%84%B1%EA%B8%B0-%EA%B5%AC%ED%98%84)
-
-## 자주 찾는 블로그
-- [테이블 컬럼 순서 변경](https://velog.io/@rivkode/%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%BB%AC%EB%9F%BC-%EC%88%9C%EC%84%9C-%EB%B3%80%EA%B2%BD-Mysql)
 - [Docker Nginx에서 HTTPS를 위한 SSL 인증서 적용 (Let's encrypt, Docker compose)](https://velog.io/@rivkode/Docker-Nginx%EC%97%90%EC%84%9C-HTTPS%EB%A5%BC-%EC%9C%84%ED%95%9C-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9-Lets-encrypt-Docker-compose)
-- [MySQL LIKE % 위치에 따른 인덱스](https://velog.io/@rivkode/MySQL-LIKE-%EC%9C%84%EC%B9%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%9D%B8%EB%8D%B1%EC%8A%A4)
-- [Github Action, Docker compose를 활용한 배포 자동화 CI/CD + (Spring boot, MySQL)](https://velog.io/@rivkode/Github-Action-Docker-compose%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-CICD-Spring-boot-MySQL)
-- [SELECT FOR UPDATE](https://velog.io/@rivkode/Select-for-update)
-- [DTO 필드에 없는 value에 대해 JSON 객체 key, value 로 받을 수 있는 이유 - Jackson](https://velog.io/@rivkode/%ED%95%84%EB%93%9C%EC%97%90-%EC%97%86%EB%8A%94-value%EC%97%90-%EB%8C%80%ED%95%B4-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%A1%9C-%EB%B0%9B%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0)
-- [Value Object 값 비교 equals() hashCode()](https://velog.io/@rivkode/Java-Object%EC%B5%9C%EC%83%81%EC%9C%84-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%99%80-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9)
-- [인덱스](https://velog.io/@rivkode/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%9E%99)
-<br>
 
 <!-- Tech Stack -->
 <p align="center">
@@ -66,5 +41,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
 </p>
 <br>
